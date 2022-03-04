@@ -1,3 +1,3 @@
 ![screenshot](./screenshot.gif)
 
-OpenVR.js Canny effect.
+OpenCV.js Canny effect.
